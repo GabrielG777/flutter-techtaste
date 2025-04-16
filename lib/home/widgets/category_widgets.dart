@@ -21,7 +21,7 @@ class CategoryWidgets extends StatelessWidget {
         spacing: 8,
         children: [
           Image.asset(
-            "asets/categories/${category.toLowerCase()}.png",
+            "assets/categories/${category.toLowerCase()}.png",
             height: 48,
           ),
           Text(

@@ -1,5 +1,3 @@
-import 'package:flutter/foundation.dart';
-
 class Restaurant {
   String id;
   String imagePath;
@@ -40,7 +38,11 @@ class Restaurant {
       stars: map['stars'],
       distance: map['distance'],
       categories: List<String>.from(map['categories']),
-
     );
+  }
+
+  @override
+  String toString() {
+    return 'Restaurant(id: $id, imagePath: $imagePath, name: $name, description: $description, stars: $stars, distance: $distance, categories: $categories)';
   }
 }

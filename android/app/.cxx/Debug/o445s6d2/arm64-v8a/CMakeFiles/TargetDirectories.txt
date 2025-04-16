@@ -1,0 +1,2 @@
+D:/Desktop/gabriel/flutter-techtaste/android/app/.cxx/Debug/o445s6d2/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Desktop/gabriel/flutter-techtaste/android/app/.cxx/Debug/o445s6d2/arm64-v8a/CMakeFiles/rebuild_cache.dir
