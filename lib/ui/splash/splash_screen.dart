@@ -36,6 +36,24 @@ class SplashScreen extends StatelessWidget {
                       ),
                     ],
                   ),
+                  //esse cara a baixo faz o mesmo que o cara de cima
+                  //utilizando uma especie de widgets para quebrar linhas 
+                  /*Text.rich(
+                  TextSpan(
+                    text: "Um parceiro inovador para sua ",
+                    style: TextStyle(color: Colors.white, fontSize: 22),
+                    children: [
+                      TextSpan(
+                        text: "melhor experiência culinária!",
+                        style: TextStyle(
+                          color: AppColors.mainColor,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                    ],
+                  ),
+                )
+                */
                   SizedBox(
                     width: double.infinity,
                     child: ElevatedButton(
