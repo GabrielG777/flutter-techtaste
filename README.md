@@ -1,16 +1,19 @@
-# flutter_techtaste
+# 🍽️ App de Restaurante - Curso Intensivo Alura
 
-A new Flutter project.
+Este projeto foi desenvolvido como parte do curso intensivo da Alura, com foco em Flutter.
 
-## Getting Started
+## 🔍 O que você vai encontrar neste repositório:
 
-This project is a starting point for a Flutter application.
+- 📦 Classes criadas com `StatelessWidget` e `StatefulWidget`, organizando a estrutura do app de forma clara e modular.
+- 📄 Consumo de um arquivo JSON local, ideal para testes sem a necessidade de uma API conectada a banco de dados.
+- 🛒 Um app de restaurante com funcionalidade de **carrinho/sacola**, onde é possível:
+  - Navegar pelos pratos disponíveis
+  - Adicionar itens ao carrinho
+  - Visualizar a lista de itens escolhidos de forma dinâmica
 
-A few resources to get you started if this is your first Flutter project:
+## 🚧 Tecnologias utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# flutter-techtaste
